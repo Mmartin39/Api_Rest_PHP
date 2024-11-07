@@ -39,7 +39,7 @@ proyecto/
    npm install
    ```
 
-4. **ETL (Python)**:
+4. **ELT (Python)**:
    ```bash
    cd etl
    python -m venv venv
@@ -60,7 +60,7 @@ proyecto/
    npm run dev
    ```
 
-3. **ETL**:
+3. **ELT**:
    ```bash
    cd etl
    python etl_process.py
@@ -72,7 +72,7 @@ proyecto/
 - Puntuación de 0 a 5 estrellas
 - Proceso ETL automatizado cada 15 minutos
 - Caché para optimizar rendimiento
-- Interfaz de usuario moderna y responsive
+- Interfaz de usuari
 
 ## API Endpoints
 
